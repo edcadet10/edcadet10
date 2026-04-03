@@ -1,221 +1,151 @@
 <div align="center">
 
-# 🌟 Hi, I'm Jeff Cadet! 👋✨
+# Hey, I'm Jeff Cadet
 
-### 💼 Tier 2 Desktop Support Specialist | 🏙️ Columbus, OH
+### Career Consultant & Facilitator @ Goodwill Columbus | Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=10%2B+Years+IT+Support+Experience;15%2C000%2B+Users+Supported;Hardware+%26+Software+Expert;Passionate+Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Facilitator;Full-Stack+Developer;CompTIA+A%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
 
-🎮 **Tech Enthusiast** | 🔧 **PC Builder** | 🌸 **Customer Service Champion**
-
-📍 Currently: Desktop Technician @ Micro Center
-🎯 Open to: Tier 2/3 Desktop Support • IT Support Engineer • Technical Support Specialist
-
+[![Portfolio](https://img.shields.io/badge/edcadet.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edcadet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadetmej97@gmail.com)
-[![Location](https://img.shields.io/badge/Columbus_OH-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tech%20Support%20Hero%20🦸&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" />
+[![Email](https://img.shields.io/badge/jeff@edcadet.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeff@edcadet.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-4A90E2?style=for-the-badge&logo=google-meet&logoColor=white)](https://edcadet.com/book)
 
 </div>
 
 ---
 
-## 🎨 About Me
+## About Me
 
 ```typescript
 const jeff = {
-    role: "Tier 2 Desktop Support Specialist 💻",
-    experience: "10+ years ⭐",
-    location: "Columbus, OH 🏙️",
-    specialties: ["Hardware Diagnostics 🔧", "Enterprise Support 🏢", "PC Builds 🖥️"],
-    currentFocus: "Delivering white-glove technical support ✨",
-    languages: ["English 🇺🇸", "French 🇫🇷", "Haitian Creole 🇭🇹"],
-    motto: "Making technology feel accessible and reliable! 💪",
-    achievements: {
-        usersSupportedannually: "15,000+",
-        customerSatisfaction: "95%",
-        dailyTickets: "30-60",
-        certifications: ["CompTIA A+", "HIPAA Compliance"]
-    }
+    roles: [
+        "Career Consultant & Facilitator @ Goodwill Columbus",
+        "Full-Stack Developer & Founder @ TradeProof",
+        "Freelance Developer @ edcadet.com",
+    ],
+    location: "Columbus, OH",
+    languages: ["English", "French", "Haitian Creole", "Spanish"],
+    certifications: ["CompTIA A+ (220-1201/1202)"],
+    currentlyBuilding: [
+        "TradeProof — contractor license verification SaaS (all 50 states)",
+        "Maison Saint Louis — haute couture e-commerce platform",
+        "edcadet.com — dev portfolio & booking platform",
+    ],
+    currentlyTeaching: "Workforce development, career readiness, job coaching",
 };
 ```
 
-<div align="center">
-
-### 🌈 "10+ years turning tech problems into tech solutions!" 🌈
-
-</div>
-
 ---
 
-## 💻 Technical Arsenal 🛠️
-
-### 🎫 Ticketing & ITSM
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Incident Management](https://img.shields.io/badge/Incident_Management-FF6B9D?style=for-the-badge&logo=fireship&logoColor=white)
-![SLA Management](https://img.shields.io/badge/SLA_Management-4ECDC4?style=for-the-badge&logo=clockify&logoColor=white)
-
-### 🖥️ Operating Systems & Platforms
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Imaging](https://img.shields.io/badge/Imaging_&_Deployment-95E1D3?style=for-the-badge&logo=webpack&logoColor=black)
-
-### ☁️ Cloud & Identity Management
-![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Windows 365](https://img.shields.io/badge/Windows_365-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![User Provisioning](https://img.shields.io/badge/User_Provisioning-FFB6C1?style=for-the-badge&logo=auth0&logoColor=black)
-
-### 🔧 Hardware Expertise
-![PC Builds](https://img.shields.io/badge/PC_Builds-FF6B6B?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
-![Component Install](https://img.shields.io/badge/Component_Installation-FF85A1?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Laptop Repairs](https://img.shields.io/badge/Laptop_Repairs-4ECDC4?style=for-the-badge&logo=ifixit&logoColor=white)
-![Printer Support](https://img.shields.io/badge/Printer_Support-FFD93D?style=for-the-badge&logo=hp&logoColor=black)
-![AV Equipment](https://img.shields.io/badge/AV_Equipment-A8E6CF?style=for-the-badge&logo=logitech&logoColor=black)
-
-### 🔍 Diagnostics & Tools
-![PC-Doctor](https://img.shields.io/badge/PC_Doctor-95E1D3?style=for-the-badge&logo=dell&logoColor=black)
-![Event Viewer](https://img.shields.io/badge/Event_Viewer-FFB6C1?style=for-the-badge&logo=windows-terminal&logoColor=black)
-![BIOS Config](https://img.shields.io/badge/BIOS_Configuration-38B2AC?style=for-the-badge&logo=intel&logoColor=white)
-![Driver Troubleshooting](https://img.shields.io/badge/Driver_Troubleshooting-FF6B9D?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 🌐 Languages I Speak
-![English](https://img.shields.io/badge/English-Professional-4A90E2?style=for-the-badge&logo=google-translate&logoColor=white)
-![French](https://img.shields.io/badge/French-Native-E74C3C?style=for-the-badge&logo=google-translate&logoColor=white)
-![Haitian Creole](https://img.shields.io/badge/Haitian_Creole-Native-27AE60?style=for-the-badge&logo=google-translate&logoColor=white)
-
----
-
-## 🎯 What I Do Best ✨
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔧 Break/Fix Expert
-- Component-level laptop repairs
-- Custom PC builds from scratch
-- Systematic hardware diagnostics
-- Screen, keyboard, battery replacements
+### Workforce Development
+At Goodwill Columbus, I help individuals with barriers to employment develop skills to obtain, maintain, and advance in competitive careers. Career coaching, job development, training plans, and employer partnerships.
 
 </td>
 <td width="50%">
 
-### 🏢 Enterprise Support
-- 30-60 tickets daily
-- 15,000+ users supported
-- 95% customer satisfaction
-- SLA compliance champion
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👥 Team Leadership
-- Mentor junior technicians
-- Create training materials
-- Lead onboarding sessions
-- Build team capabilities
-
-</td>
-<td width="50%">
-
-### 📚 Technical Depth
-- BIOS configuration
-- Event Viewer analysis
-- Cloud identity management
-- SOP documentation
+### Software Development
+I build production software end-to-end. SaaS platforms, web apps, APIs, desktop apps. From database design to deployment pipelines. Python and TypeScript ecosystems.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 💭 *"My goal is to make technology feel accessible and reliable!"* 💭
-
-</div>
-
 ---
 
-## 🏆 Achievement Unlocked! 🎮
+## Tech Stack
 
-<div align="center">
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
-| 🌟 Achievement | 📊 Stats |
-|:---:|:---:|
-| **Enterprise Support Excellence** | 95% CSAT 🌸 |
-| **Users Supported** | 15,000+ 👥 |
-| **Team Development** | Mentored 10+ technicians 🎓 |
-| **Knowledge Base** | 50+ SOPs created 📚 |
-| **Hardware Mastery** | 100+ PC builds & repairs 🔧 |
-| **Ticket Resolution** | 30-60 daily 🎫 |
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-</div>
-
----
-
-## 📜 Certifications & Training 🎓
-
-<div align="center">
-
+### IT & Security
 ![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
-![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-00BFA6?style=for-the-badge&logo=security&logoColor=white)
-
-**CompTIA A+** - Valid through December 2028 ✨
-**HIPAA Compliance Training** - Certified 🏥
-
-</div>
+![OWASP](https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 💼 Professional Experience Highlights 🌟
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[TradeProof](https://tradeproof.net)** | Contractor license verification SaaS — 3.6M+ records across all 50 states | FastAPI, PostgreSQL, Stripe, Docker, GCP |
+| **[Maison Saint Louis](https://maison-saint-louis.vercel.app)** | Haute couture e-commerce for Haitian-American fashion house | Next.js, Prisma, Neon, Stripe, next-intl |
+| **[edcadet.com](https://edcadet.com)** | Developer portfolio with Stripe booking & payment integration | Next.js 16, Tailwind, Resend, Stripe |
+| **Core Bastion** | Cross-platform security dashboard desktop app | Tauri 2.x, React, FastAPI, Rust |
+
+---
+
+## Experience
 
 ```javascript
 const experience = [
     {
-        company: "Micro Center",
-        role: "Desktop Technician",
-        period: "December 2025 - Present",
+        company: "Goodwill Columbus",
+        role: "Career Consultant & Facilitator",
+        period: "March 2026 - Present",
         highlights: [
-            "🔧 Custom PC builds from scratch",
-            "💻 Component-level laptop repairs",
-            "🔍 Hardware/software diagnostics"
+            "Career coaching and job development for individuals with barriers",
+            "Training plan development aligned with employer needs",
+            "Job search strategy, interview prep, and placement coordination",
+            "Caseload management and outcome documentation",
         ]
     },
     {
-        company: "Association of American Medical Colleges (AAMC)",
+        company: "TradeProof (Founder)",
+        role: "Full-Stack Developer",
+        period: "2025 - Present",
+        highlights: [
+            "Built contractor compliance SaaS from zero to production",
+            "50-state scraper infrastructure, 3.6M+ license records",
+            "Stripe billing, blue/green deployment, security hardened",
+        ]
+    },
+    {
+        company: "edcadet.com (Freelance)",
+        role: "Full-Stack Developer",
+        period: "2026 - Present",
+        highlights: [
+            "Web apps, e-commerce, APIs, and desktop applications",
+            "Client projects: Maison Saint Louis, Sarah Beauty, Ayiti Sitwayen",
+        ]
+    },
+    {
+        company: "AAMC",
         role: "Tier 2 Desktop Support Specialist",
         period: "May 2024 - January 2025",
         highlights: [
-            "👥 Supported 15,000+ users",
-            "🎯 95% customer satisfaction",
-            "📚 Mentored Tier 1 technicians"
+            "Supported 15,000+ users, 95% CSAT",
+            "Mentored Tier 1 technicians",
         ]
     },
-    {
-        company: "ConnectiveRx",
-        role: "Technical Support Specialist",
-        period: "January 2025 - June 2025",
-        highlights: [
-            "📱 iPad provisioning & support",
-            "🎥 Conference room AV setup",
-            "🖨️ Printer configuration"
-        ]
-    }
 ];
 ```
 
 ---
 
-## 📊 GitHub Stats ✨
+## GitHub Stats
 
 <div align="center">
 
@@ -227,30 +157,12 @@ const experience = [
 
 ---
 
-## 📫 Let's Connect! 🌸
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadetmej97@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(215)_954--7673-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![Location](https://img.shields.io/badge/Columbus,_OH-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
+### Available for freelance projects
 
-### 🌟 Open to new opportunities! 🌟
-*Tier 2/3 Desktop Support • IT Support Engineer • Technical Support Specialist*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-### 💻 *Experienced Desktop Support Specialist ready to deliver exceptional technical support!* 💻
+**[edcadet.com/book](https://edcadet.com/book)** - Book a discovery call or consultation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=edcadet10&color=36BCF7&style=for-the-badge)
-
-⭐ **Thank you for visiting!** ⭐
 
 </div>
