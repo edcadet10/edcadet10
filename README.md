@@ -129,6 +129,46 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 
 ---
 
+## Explore by Area
+
+[Browse all repositories →](https://github.com/edcadet10?tab=repositories)
+
+### Agent tooling & Claude Code
+| Repo | What it is |
+|------|-----------|
+| **[disconfirm](https://github.com/edcadet10/disconfirm)** | Claude Code skill — research + falsify a claim before you act on it |
+| **[write-goal](https://github.com/edcadet10/write-goal)** | Claude Code skill — turn a rough task into a provable `/goal` line |
+| **[agent-os](https://github.com/edcadet10/agent-os)** | Unix-style primitives for the agent era (Spec · Trace · Trust · Memory · Pipe) |
+| **[ampl-protocol](https://github.com/edcadet10/ampl-protocol)** | Open protocol for portable agent memory across models & frameworks |
+| **[marceddy](https://github.com/edcadet10/marceddy)** | Autonomous job-application agent — searches, scores, tailors, and tracks |
+
+### TradeProof
+| Repo | What it is |
+|------|-----------|
+| **[tradeproof-mcp-server](https://github.com/edcadet10/tradeproof-mcp-server)** | MCP server exposing contractor license & workers-comp data across all 50 states |
+| **[tradeproof.net ↗](https://tradeproof.net)** | The live SaaS — contractor license & insurance verification |
+
+### IT & security
+| Repo | What it is |
+|------|-----------|
+| **[cadet-blue](https://github.com/edcadet10/cadet-blue)** | Blue-team & IT-ops portfolio — 10 hands-on Help Desk / SOC / GRC / IAM projects |
+
+### Dev tools & data
+| Repo | What it is |
+|------|-----------|
+| **[bulk-fetch-engine](https://github.com/edcadet10/bulk-fetch-engine)** | Distributed HTTP fetcher built on the GitHub Actions matrix |
+| **[Data-Analysis](https://github.com/edcadet10/Data-Analysis)** | Futures data analysis for pattern detection |
+
+### Education & social impact
+| Repo | What it is |
+|------|-----------|
+| **[chemen-lekol-platform](https://github.com/edcadet10/chemen-lekol-platform)** | SMS / USSD micro-learning for vulnerable children in Northern Haiti |
+
+### Client & brand sites
+**[maison-saint-louis-landing](https://github.com/edcadet10/maison-saint-louis-landing)** · **[jacques-camille-website](https://github.com/edcadet10/jacques-camille-website)** · **[glam_by_dina](https://github.com/edcadet10/glam_by_dina)** · **[mrflowerhaiti-website](https://github.com/edcadet10/mrflowerhaiti-website)** — landing pages and brand sites built for clients.
+
+---
+
 ## Experience
 
 ```javascript
