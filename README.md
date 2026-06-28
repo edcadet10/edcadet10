@@ -4,7 +4,7 @@
 
 ### Career Consultant & Facilitator @ Goodwill Columbus | Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Facilitator;Full-Stack+Developer;CompTIA+A%2B+%26+Network%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Facilitator;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/edcadet.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edcadet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
@@ -29,7 +29,9 @@ const jeff = {
     certifications: [
         "CompTIA A+ (220-1201/1202)",
         "CompTIA Network+ (N10-009)",
+        "CompTIA Security+ (SY0-701)",
         "CompTIA CIOS — IT Operations Specialist",
+        "CompTIA CSIS — Secure Infrastructure Specialist",
     ],
     currentlyBuilding: [
         "TradeProof — contractor license verification SaaS (all 50 states)",
@@ -86,6 +88,7 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 ### IT & Security
 ![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -97,7 +100,9 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 [![CompTIA CIOS](https://img.shields.io/badge/CompTIA_CIOS-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
+[![CompTIA CSIS](https://img.shields.io/badge/CompTIA_CSIS-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 
 </div>
 
@@ -105,9 +110,11 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 |---|---|---|---|
 | **CompTIA A+** | 220-1201 / 220-1202 | Dec 2025 | Active (CE) |
 | **CompTIA Network+** | N10-009 | May 2026 | Active (CE) |
+| **CompTIA Security+** | SY0-701 | 2026 | Active (CE) |
 | **CompTIA CIOS** — IT Operations Specialist | A+ ▸ Network+ (stacked) | 2026 | Active (CE) |
+| **CompTIA CSIS** — Secure Infrastructure Specialist | A+ ▸ Network+ ▸ Security+ (stacked) | 2026 | Active (CE) |
 
-<sub><b>CIOS</b> (CompTIA IT Operations Specialist) is a stackable credential earned automatically by holding both A+ and Network+ — it contains both. Credentials verifiable on <a href="https://www.linkedin.com/in/iamedcadet/details/certifications/">LinkedIn</a>.</sub>
+<sub>CompTIA stackable credentials build on the exams: <b>CIOS</b> (IT Operations Specialist) = A+ + Network+; <b>CSIS</b> (Secure Infrastructure Specialist) = A+ + Network+ + Security+. Credentials verifiable on <a href="https://www.linkedin.com/in/iamedcadet/details/certifications/">LinkedIn</a>.</sub>
 
 ---
 
