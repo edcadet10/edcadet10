@@ -2,14 +2,16 @@
 
 # Hey, I'm Jeff Cadet
 
-### Career Consultant & Facilitator @ Goodwill Columbus | Full-Stack Developer
+### Career Consultant & Technical Trainer @ Goodwill Columbus | Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Facilitator;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Technical+Trainer;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/edcadet.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edcadet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
 [![Email](https://img.shields.io/badge/jeff@edcadet.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeff@edcadet.com)
 [![Book a Call](https://img.shields.io/badge/Book_a_Call-4A90E2?style=for-the-badge&logo=google-meet&logoColor=white)](https://edcadet.com/book)
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Try_it_with_my_referral_link-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/referral/zjgh75AZmg)
 
 </div>
 
@@ -20,7 +22,7 @@
 ```typescript
 const jeff = {
     roles: [
-        "Career Consultant & Facilitator @ Goodwill Columbus",
+        "Career Consultant & Technical Trainer @ Goodwill Columbus",
         "Full-Stack Developer & Founder @ TradeProof",
         "Freelance Developer @ edcadet.com",
     ],
@@ -175,7 +177,7 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 const experience = [
     {
         company: "Goodwill Columbus",
-        role: "Career Consultant & Facilitator",
+        role: "Career Consultant & Technical Trainer",
         period: "March 2026 - Present",
         highlights: [
             "Career coaching and job development for individuals with barriers",
