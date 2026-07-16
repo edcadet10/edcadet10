@@ -34,6 +34,7 @@ const jeff = {
         "CompTIA Security+ (SY0-701)",
         "CompTIA CIOS — IT Operations Specialist",
         "CompTIA CSIS — Secure Infrastructure Specialist",
+        "Google Project Management Certificate",
     ],
     currentlyBuilding: [
         "TradeProof — contractor license verification SaaS (all 50 states)",
@@ -105,6 +106,7 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 [![CompTIA CIOS](https://img.shields.io/badge/CompTIA_CIOS-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 [![CompTIA CSIS](https://img.shields.io/badge/CompTIA_CSIS-EE3124?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
+[![Google Project Management](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/iamedcadet/details/certifications/)
 
 </div>
 
@@ -115,6 +117,7 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 | **CompTIA Security+** | SY0-701 | 2026 | Active (CE) |
 | **CompTIA CIOS** — IT Operations Specialist | A+ ▸ Network+ (stacked) | 2026 | Active (CE) |
 | **CompTIA CSIS** — Secure Infrastructure Specialist | A+ ▸ Network+ ▸ Security+ (stacked) | 2026 | Active (CE) |
+| **Google Project Management** | Google Career Certificate | 2026 | Earned |
 
 <sub>CompTIA stackable credentials build on the exams: <b>CIOS</b> (IT Operations Specialist) = A+ + Network+; <b>CSIS</b> (Secure Infrastructure Specialist) = A+ + Network+ + Security+. Credentials verifiable on <a href="https://www.linkedin.com/in/iamedcadet/details/certifications/">LinkedIn</a>.</sub>
 
