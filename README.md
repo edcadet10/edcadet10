@@ -4,7 +4,7 @@
 
 ### Career Consultant & Technical Trainer @ Goodwill Columbus | Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Technical+Trainer;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Technical+Trainer;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Blue+Team+%7C+SOC+%26+Detection+Engineering;Azure+%7C+Microsoft+Sentinel+%7C+KQL+%7C+Entra+ID;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/edcadet.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edcadet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
@@ -84,16 +84,40 @@ I build production software end-to-end. SaaS platforms, web apps, APIs, desktop 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-### IT & Security
+### Security & SOC
 ![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-EE3124?style=for-the-badge&logo=comptia&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftentraid&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7002E?style=for-the-badge&logo=mitre&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## Security Operations & Labs
+
+I'm expanding from IT operations into **security operations**, and I learn by building. My hands-on work runs on **Microsoft Azure** and is documented in **[cadet-blue](https://github.com/edcadet10/cadet-blue)** — a blue-team portfolio spanning SOC, IAM, GRC, and vulnerability management.
+
+| Lab | Focus | Stack |
+|-----|-------|-------|
+| **[SIEM & Detection Engineering](https://github.com/edcadet10/cadet-blue/tree/main/projects/01-siem-detection-lab)** | SOC / detection | Microsoft Sentinel · KQL · analytics rules · hunting queries · SOAR playbook |
+| **[Identity & Access on Entra ID](https://github.com/edcadet10/cadet-blue/tree/main/projects/06-iam-entra-id)** | IAM | Entra ID · RBAC · Conditional Access · MFA · least privilege |
+| **[Endpoint Hardening to CIS Benchmark](https://github.com/edcadet10/cadet-blue/tree/main/projects/04-endpoint-hardening-cis)** | Hardening | CIS Benchmarks · Group Policy · compliance scanning |
+| **[AI-Assisted Help Desk Agent](https://github.com/edcadet10/cadet-blue/tree/main/projects/10-ai-helpdesk-agent)** | Applied AI | Azure AI Foundry · agents · tool/action APIs |
+
+My **Microsoft Sentinel** lab onboards a fresh Log Analytics workspace, ingests ~24K security events, and works detection end-to-end: scheduled analytics rules that raise incidents, KQL hunting queries, an investigation workbook, and a geo-IP enrichment playbook.
+
+I also design Azure labs for my CompTIA cohorts — students provision **Windows Server 2022** on **Azure DevTest Labs** and build AD, DHCP, DNS, and VPN, backed by per-student Entra accounts and scoped RBAC.
+
+> Currently preparing for **Microsoft SC-200** (Security Operations Analyst).
 
 ---
 
