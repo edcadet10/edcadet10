@@ -42,6 +42,7 @@ const jeff = {
         "TradeProof — contractor license verification SaaS (all 50 states)",
         "Maison Saint Louis — haute couture e-commerce platform",
         "edcadet.com — dev portfolio & booking platform",
+        "Ayiti Sitwayen — civic education and election guides for Haiti in Haitian Creole and English",
     ],
     currentlyTeaching: "Workforce development, career readiness, job coaching",
 };
