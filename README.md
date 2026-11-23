@@ -2,9 +2,11 @@
 
 # Hey, I'm Jeff Cadet
 
-### Career Consultant & Technical Trainer @ Goodwill Columbus | Full-Stack Developer
+### Cloud Operations Engineer | Azure & Microsoft 365
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Career+Consultant+%26+Technical+Trainer;Full-Stack+Developer;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Blue+Team+%7C+SOC+%26+Detection+Engineering;Azure+%7C+Microsoft+Sentinel+%7C+KQL+%7C+Entra+ID;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
+[Azure infrastructure case study](https://github.com/edcadet10/tradeproof-cloud-case-study) · [Microsoft 365 audit playbook](https://github.com/edcadet10/m365-audit-playbook)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Azure+infrastructure+with+Bicep;Microsoft+365+audits+with+PowerShell;Full-Stack+Development;CompTIA+A%2B+%7C+Network%2B+%7C+Security%2B+Certified;Blue+Team+%7C+SOC+%26+Detection+Engineering;Azure+%7C+Microsoft+Sentinel+%7C+KQL+%7C+Entra+ID;Building+TradeProof+%7C+edcadet.com;EN+%7C+FR+%7C+Haitian+Creole+%7C+ES" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/edcadet.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://edcadet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamedcadet)
