@@ -54,16 +54,34 @@ const jeff = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Workforce Development
-At Goodwill Columbus, I help individuals with barriers to employment develop skills to obtain, maintain, and advance in competitive careers. Career coaching, job development, training plans, and employer partnerships.
+### Azure Infrastructure
+
+I built TradeProof's Azure environment with Bicep, deploying Container Apps and PostgreSQL on a private network. [Cloud operations case study](https://github.com/edcadet10/tradeproof-cloud-case-study)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### Microsoft 365 Security
+
+I write PowerShell tools to collect read-only audit evidence from Microsoft 365 tenants. My playbook covers Entra ID permissions, Exchange Online, and tenant governance. [Microsoft 365 audit playbook](https://github.com/edcadet10/m365-audit-playbook)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Software Development
-I build production software end-to-end. SaaS platforms, web apps, APIs, desktop apps. From database design to deployment pipelines. Python and TypeScript ecosystems.
+
+I build web apps and APIs with Python and TypeScript. I also build Ayiti Sitwayen, where readers can find election guides and candidate records for Haiti in Haitian Creole and English. [Ayiti Sitwayen](https://www.ayitisitwayen.org)
+
+</td>
+<td width="50%" valign="top">
+
+### Workforce Development
+
+At Goodwill Columbus, I help job seekers prepare for interviews, build training plans around employer needs, and connect candidates with job opportunities.
 
 </td>
 </tr>
