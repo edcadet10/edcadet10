@@ -39,6 +39,7 @@ const jeff = {
         "Google Project Management Certificate",
     ],
     currentlyBuilding: [
+        "Sarah Beauty — bridal and editorial makeup website",
         "TradeProof — contractor license verification SaaS (all 50 states)",
         "Maison Saint Louis — haute couture e-commerce platform",
         "edcadet.com — dev portfolio & booking platform",
@@ -172,6 +173,7 @@ I also design Azure labs for my CompTIA cohorts — students provision **Windows
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[Sarah Beauty](https://www.sarahbeauty.us/)** | Makeup artist portfolio with bridal galleries and a wedding party estimator | React, Vite, Tailwind CSS |
 | **[TradeProof](https://tradeproof.net)** | Contractor license verification SaaS — 3.6M+ records across all 50 states | FastAPI, PostgreSQL, Stripe, Docker, GCP |
 | **[Maison Saint Louis](https://maison-saint-louis.vercel.app)** | Haute couture e-commerce for Haitian-American fashion house | Next.js, Prisma, Neon, Stripe, next-intl |
 | **[edcadet.com](https://edcadet.com)** | Developer portfolio with Stripe booking & payment integration | Next.js 16, Tailwind, Resend, Stripe |
